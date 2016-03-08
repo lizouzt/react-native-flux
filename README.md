@@ -1,11 +1,11 @@
-# React Native Flux Boilerplate
-Starter boilerplate for React native using flux, rn webpack and hot reload
+# React Native Flux startkit
+Starter for React native using flux, rn webpack and hot reload
 
     git clone https://github.com/OssamaZ/react-native-flux-boilerplate
     mv react-native-flux-boilerplate myAwesomeApp
     cd myAwesomeApp
     npm install
-    npm run hot
+    npm run start
     run project
 
 ###### PS:  make sure to enable live reload and chrome debugging
@@ -14,9 +14,6 @@ The starting point of your project is in the folder App, dont forget to update t
 
 The babel loader is also preconfigured, so you can use full ES6 in your code ;)
 
-###### Preview:
-
-![Preview](http://i.imgur.com/76qhgae.gif)
 
 ### Issues:
 
